@@ -7,6 +7,7 @@ public class Pratice1 {
 System.out.println("hiii");
 System.out.println("bye");
 System.out.println(" cccc");
+System.out.println("hahahahah");
 	}
 
 }
